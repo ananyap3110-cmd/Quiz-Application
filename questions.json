@@ -1,0 +1,41 @@
+
+  {
+  "easy": [
+    {"question": "Capital of India?", "options": ["Delhi", "Mumbai", "Chennai", "Kolkata"], "answer": "Delhi"},
+    {"question": "5 + 3?", "options": ["6", "7", "8", "9"], "answer": "8"},
+    {"question": "Sun rises in?", "options": ["West", "East", "North", "South"], "answer": "East"},
+    {"question": "Color of sky?", "options": ["Blue", "Green", "Red", "Yellow"], "answer": "Blue"},
+    {"question": "2 * 6?", "options": ["10", "12", "14", "16"], "answer": "12"},
+    {"question": "Water freezes at?", "options": ["0°C", "50°C", "100°C", "10°C"], "answer": "0°C"},
+    {"question": "Which is a fruit?", "options": ["Carrot", "Potato", "Apple", "Onion"], "answer": "Apple"},
+    {"question": "How many days in a week?", "options": ["5", "6", "7", "8"], "answer": "7"},
+    {"question": "Largest planet?", "options": ["Earth", "Mars", "Jupiter", "Venus"], "answer": "Jupiter"},
+    {"question": "Opposite of hot?", "options": ["Cold", "Warm", "Cool", "Heat"], "answer": "Cold"}
+  ],
+
+  "medium": [
+    {"question": "Binary of 10?", "options": ["1010", "1001", "1110", "1100"], "answer": "1010"},
+    {"question": "Square root of 64?", "options": ["6", "7", "8", "9"], "answer": "8"},
+    {"question": "HTML stands for?", "options": ["Hyper Text Markup Language", "High Text Machine Language", "Hyper Tabular Markup Language", "None"], "answer": "Hyper Text Markup Language"},
+    {"question": "Which is not a programming language?", "options": ["Python", "Java", "HTML", "C++"], "answer": "HTML"},
+    {"question": "Who discovered gravity?", "options": ["Newton", "Einstein", "Tesla", "Edison"], "answer": "Newton"},
+    {"question": "7 * 8?", "options": ["54", "56", "58", "60"], "answer": "56"},
+    {"question": "CPU full form?", "options": ["Central Processing Unit", "Computer Personal Unit", "Central Process Unit", "Control Processing Unit"], "answer": "Central Processing Unit"},
+    {"question": "Which gas do plants use?", "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"], "answer": "Carbon Dioxide"},
+    {"question": "Speed of light approx?", "options": ["3x10^8 m/s", "3x10^6 m/s", "3x10^5 m/s", "3x10^7 m/s"], "answer": "3x10^8 m/s"},
+    {"question": "Which is a database?", "options": ["MySQL", "Python", "HTML", "CSS"], "answer": "MySQL"}
+  ],
+
+  "hard": [
+    {"question": "Time complexity of binary search?", "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"], "answer": "O(log n)"},
+    {"question": "Python is?", "options": ["Compiled", "Interpreted", "Assembly", "Machine"], "answer": "Interpreted"},
+    {"question": "RAM is?", "options": ["Volatile", "Non-volatile", "Permanent", "External"], "answer": "Volatile"},
+    {"question": "Which sorting is fastest average?", "options": ["Bubble", "Selection", "Merge", "Insertion"], "answer": "Merge"},
+    {"question": "SQL stands for?", "options": ["Structured Query Language", "Simple Query Language", "System Query Logic", "None"], "answer": "Structured Query Language"},
+    {"question": "IPv4 size?", "options": ["32-bit", "64-bit", "16-bit", "128-bit"], "answer": "32-bit"},
+    {"question": "Which is not OOP concept?", "options": ["Encapsulation", "Inheritance", "Polymorphism", "Compilation"], "answer": "Compilation"},
+    {"question": "Recursion is?", "options": ["Loop", "Function calling itself", "Condition", "Variable"], "answer": "Function calling itself"},
+    {"question": "Primary key is?", "options": ["Unique identifier", "Duplicate field", "Optional field", "Foreign key"], "answer": "Unique identifier"},
+    {"question": "Cache memory is?", "options": ["Slow", "Fast", "External", "Secondary"], "answer": "Fast"}
+  ]
+}
