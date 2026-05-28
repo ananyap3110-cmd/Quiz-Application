@@ -20,11 +20,11 @@ This project allows users to answer quiz questions, calculate scores, and store 
 
 | File Name | Description |
 |---|---|
-| `normal.ipynb` | Main quiz application notebook |
-| `extra.ipynb` | Additional quiz features |
-| `tkinter.ipynb` | GUI-based quiz implementation using Tkinter |
-| `questions.json` | Stores quiz questions |
-| `scores.json` | Stores user scores |
+| `normal.ipynb` | Basic console-based quiz application with multiple-choice questions and score calculation |
+| `extra.ipynb` | Extended version of the quiz application with additional quiz features and improved functionality |
+| `tkinter.ipynb` | GUI-based quiz application developed using Tkinter for an interactive user interface |
+| `questions.json` | Stores quiz questions and answers used in the application |
+| `scores.json` | Stores user scores and quiz results |
 
 ## How to Run the Project
 
