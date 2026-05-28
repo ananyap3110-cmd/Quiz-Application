@@ -31,7 +31,7 @@ This project allows users to answer quiz questions, calculate scores, and store 
 1. Install Python
 2. Install Jupyter Notebook
 3. Open the project folder
-4. Run the notebook files using Jupyter Notebook
+4. Run the notebook files(normal.ipynb or extra.ipynb or tkinter.ipynb) using Jupyter Notebook.
 
 ## Future Improvements
 - Add timer functionality
